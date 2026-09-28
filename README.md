@@ -187,20 +187,31 @@ Potential future improvements include:
 
 ---
 
-##  Repository Structure
-
-The repository contains the different software and hardware components used throughout the system.
-
-```text
-Taekwondo-Kickmeter/
+taekwondo-kick-meter/
 │
-├── Arduino/
-├── Raspberry-Pi/
-├── Frontend/
-├── Calibration/
-├── Documentation/
-└── README.md
-```
+├── public/
+│   └── vite.svg
+│
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   │
+│   ├── components/
+│   │   ├── Data.jsx
+│   │   └── TaekwondoChatbot.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── pi.py
+├── serviceAccountKey.json
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
 
 > Repository structure may vary depending on the current organization of the source files.
 
