@@ -4,7 +4,6 @@ An IoT-based Taekwondo performance monitoring system that measures **kick force,
 
 The system combines an **Arduino Nano 33 IoT, Raspberry Pi, load cell, FSR sensors, BLE communication, Firebase, and a React dashboard** to collect, process, store, and visualize training data.
 
-> **Academic Project — SIT210 Embedded Systems Development**
 
 ---
 
@@ -209,7 +208,7 @@ Taekwondo-Kickmeter/
 
 ##  Demonstration
 
-A demonstration video of the project is included with the project documentation.
+demonstration video link: `https://youtu.be/XUWpvs5DRVM?si=GxSaMjWaMIZCKp7P`
 
 ---
 
