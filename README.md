@@ -209,6 +209,7 @@ taekwondo-kick-meter/
 │
 ├── pi.py
 ├── serviceAccountKey.json
+├── TKM.pdf
 ├── index.html
 ├── package.json
 ├── package-lock.json
