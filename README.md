@@ -186,7 +186,9 @@ Potential future improvements include:
 * More comprehensive athlete performance analytics
 
 ---
+## Repository Structure
 
+```text
 taekwondo-kick-meter/
 │
 ├── public/
@@ -212,7 +214,8 @@ taekwondo-kick-meter/
 ├── package-lock.json
 ├── vite.config.js
 ├── eslint.config.js
-
+└── README.md
+```
 > Repository structure may vary depending on the current organization of the source files.
 
 ---
